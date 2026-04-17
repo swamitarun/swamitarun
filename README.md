@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+My+GitHub+Profile!;🧬+Bioinformatics+%7C+Deep+Learning+%7C+Innovation;🌱+Building+Circular+Bioeconomy+Solutions" alt="Typing SVG" />
-</div>
 
----
 
 ## 🚀 About Me
 
