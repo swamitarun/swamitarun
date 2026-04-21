@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate ** Researcher & Developer AI and cloud ** dedicated to leveraging computational biology, deep learning, and data science to drive innovation in the **circular bioeconomy**. My work focuses on sustainable biotechnology solutions, genomic analysis, and transformative innovations that bridge biological sciences and cutting-edge technology.
+I'm a passionate **AI Researcher & Developer** dedicated to leveraging deep learning, computer vision, and computational biology to drive innovation. My work spans **deepfake detection**, **self-supervised learning**, **genomic analysis**, and sustainable biotechnology—bridging cutting-edge AI with real-world applications.
 
-- 🧬 **Expertise**: Bioinformatics, Genomic Data Analysis, Deep Learning, Machine Learning
-- 🌍 **Mission**: Making biotechnology sustainable and innovative
-- 💡 **Currently Working On**: Circular Bioeconomy Innovation Projects
+- 🧬 **Expertise**: Bioinformatics, Genomic Data Analysis, Deep Learning, Computer Vision, Self-Supervised Learning
+- 🌍 **Mission**: Building trustworthy AI and making biotechnology sustainable and innovative
+- 💡 **Currently Working On**: Deepfake Detection (DINOv2 & BYOL), Circular Bioeconomy Innovation, Smart Attendance System
 - 🎓 **Passionate About**: Open Science, Reproducible Research, Data-Driven Solutions
 
 ---
@@ -32,6 +32,8 @@ I'm a passionate ** Researcher & Developer AI and cloud ** dedicated to leveragi
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -59,8 +61,10 @@ I'm a passionate ** Researcher & Developer AI and cloud ** dedicated to leveragi
 
 | Project | Description |
 |---------|-------------|
-| **[CircularBioInnovation](https://github.com/swamitarun/circularbioinnovation)** | Innovative solutions for sustainable biotechnology and circular bioeconomy |
-| **[Bioinformatics Toolkit](https://github.com/swamitarun)** | Comprehensive tools for genomic analysis and deep learning applications |
+| **[Deepfake Detection – DINOv2](https://github.com/swamitarun/Deepfake-Advanced-version-of-DINOv2-in-deepfake-)** | Advanced deepfake detection using DINOv2 vision transformer for state-of-the-art image forensics |
+| **[Deepfake Detection – BYOL SSL](https://github.com/swamitarun/Deepfake_SSL_01)** | Deepfake detection with BYOL (Bootstrap Your Own Latent) self-supervised learning |
+| **[CircularBioInnovation](https://github.com/swamitarun/circularbioinnovation)** | Full-stack website and codebase for sustainable biotechnology and circular bioeconomy solutions |
+| **[Chill Attendance](https://github.com/swamitarun/chill-attandance)** | Smart attendance system to keep you tension-free about academic attendance tracking |
 
 ---
 
@@ -82,8 +86,10 @@ I'm a passionate ** Researcher & Developer AI and cloud ** dedicated to leveragi
 
 - Neural Networks & CNNs
 - Recurrent Networks (LSTM, GRU)
-- Transformer Models
+- Transformer Models (Vision Transformers, DINOv2)
+- Self-Supervised Learning (BYOL, SimCLR)
 - Transfer Learning
+- Deepfake Detection & Media Forensics
 - Genomic Sequence Prediction
 - Image Classification & Analysis
 </details>
@@ -124,10 +130,11 @@ I'm a passionate ** Researcher & Developer AI and cloud ** dedicated to leveragi
 
 ## 🏆 Highlights
 
-- 🔬 **Research-Focused**: Advancing bioinformatics and computational biology
-- 🤖 **Deep Learning Expert**: Building AI solutions for genomic data
-- ☁️ **Cloud-Native**: AWS expertise for scalable bioinformatics pipelines
-- 🌐 **Open Source**: Active contributor to bioinformatics community
+- 🔬 **Research-Focused**: Advancing bioinformatics, deepfake detection, and computational AI
+- 🤖 **Deep Learning Expert**: Building AI solutions for media forensics and genomic data
+- 👁️ **Computer Vision**: Deepfake detection with DINOv2 and self-supervised learning (BYOL)
+- ☁️ **Cloud-Native**: AWS expertise for scalable AI and bioinformatics pipelines
+- 🌐 **Open Source**: Active contributor to AI and bioinformatics community
 - 📚 **Continuous Learning**: Exploring cutting-edge technologies
 - 🤝 **Collaboration**: Enthusiastic about interdisciplinary projects
 - 🎯 **Problem-Solver**: Creating practical solutions for real-world challenges
@@ -140,7 +147,7 @@ I'm a passionate ** Researcher & Developer AI and cloud ** dedicated to leveragi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swamitarun)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swamitsp@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/swamitarun)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/swamitarun)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)]()
 
 </div>
