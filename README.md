@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI Researcher & Developer** dedicated to leveraging deep learning, computer vision, and computational biology to drive innovation. My work spans **deepfake detection**, **self-supervised learning**, **genomic analysis**, and sustainable biotechnology—bridging cutting-edge AI with real-world applications.
+I'm a passionate **AI Researcher, Developer & Cloud Engineering Enthusiast** focused mainly on **AI/Deep Learning** and **Cloud Engineering** to build scalable, real-world solutions. My work spans **deepfake detection**, **self-supervised learning**, **genomic analysis**, and sustainable biotechnology—bridging cutting-edge AI with practical impact.
 
-- 🧬 **Expertise**: Bioinformatics, Genomic Data Analysis, Deep Learning, Computer Vision, Self-Supervised Learning
+- 🧬 **Expertise**: Cloud Engineering, AI/Deep Learning, Bioinformatics, Genomic Data Analysis, Computer Vision, Self-Supervised Learning
 - 🌍 **Mission**: Building trustworthy AI and making biotechnology sustainable and innovative
-- 💡 **Currently Working On**: Deepfake Detection (DINOv2 & BYOL), Circular Bioeconomy Innovation, Smart Attendance System
+- 💡 **Currently Working On**: Deepfake Detection (DINOv2 & BYOL), Cloud-Native AI Pipelines, Circular Bioeconomy Innovation, Smart Attendance System
 - 🎓 **Passionate About**: Open Science, Reproducible Research, Data-Driven Solutions
 
 ---
@@ -61,10 +61,11 @@ I'm a passionate **AI Researcher & Developer** dedicated to leveraging deep lear
 
 | Project | Description |
 |---------|-------------|
-| **[Deepfake Detection – DINOv2](https://github.com/swamitarun/Deepfake-Advanced-version-of-DINOv2-in-deepfake-)** | Advanced deepfake detection using DINOv2 vision transformer for state-of-the-art image forensics |
-| **[Deepfake Detection – BYOL SSL](https://github.com/swamitarun/Deepfake_SSL_01)** | Deepfake detection with BYOL (Bootstrap Your Own Latent) self-supervised learning |
-| **[CircularBioInnovation](https://github.com/swamitarun/circularbioinnovation)** | Full-stack website and codebase for sustainable biotechnology and circular bioeconomy solutions |
-| **[Chill Attendance](https://github.com/swamitarun/chill-attandance)** | Smart attendance system to keep you tension-free about academic attendance tracking |
+| **[Deepfake-DINOG50](https://github.com/swamitarun/Deepfake-DINOG50)** | Deepfake detection project using DINO-based and ResNet-style deep learning experiments for image forensics |
+| **[Deepfake_BYOL](https://github.com/swamitarun/Deepfake_BYOL)** | Self-supervised deepfake detection using BYOL for robust feature learning and classification |
+| **[CircularBioInnovation](https://github.com/swamitarun/circularbioinnovation)** | Circular bioeconomy platform and website codebase for sustainable biotechnology initiatives |
+| **[chill-attandance](https://github.com/swamitarun/chill-attandance)** | Academic attendance support project to simplify student attendance tracking |
+| **[swamitarun (Profile)](https://github.com/swamitarun/swamitarun)** | Personal GitHub profile repository with portfolio, skills, and project highlights |
 
 ---
 
